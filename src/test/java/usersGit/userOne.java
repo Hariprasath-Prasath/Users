@@ -5,7 +5,6 @@ public class userOne {
 	private void Tamil() {
 		System.out.println("10 Users");
 	}
-
 	private void english() {
 		System.out.println("20 Users");
 	}
@@ -18,7 +17,6 @@ public class userOne {
 	private void hindi() {
 		System.out.println("15 Users");
 	}
-
 	private void tamilNadu() {
 		System.out.println("10 User");
 	}
@@ -28,5 +26,10 @@ public class userOne {
 	private void andra() {
 		System.out.println("11 User");
 	}
-
-}
+	private void delhi() {
+		System.out.println("50 Users");
+	}
+	private void mumbai() {
+		System.out.println("100 Users");
+	}
+	}
