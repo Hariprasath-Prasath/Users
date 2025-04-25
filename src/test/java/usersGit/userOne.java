@@ -16,6 +16,12 @@ public class userOne {
 		System.out.println("25 Users");
 	}
 	private void hindi() {
-		System.out.println("15 Users");
+		System.out.println("15 Users");		
+	}
+	private void delhi() {
+		System.out.println("50 Users");
+	}
+	private void mumbai() {
+		System.out.println("100 Users");
 	}
 }
