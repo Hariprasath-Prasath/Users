@@ -18,4 +18,15 @@ public class userOne {
 	private void hindi() {
 		System.out.println("15 Users");
 	}
+
+	private void tamilNadu() {
+		System.out.println("10 User");
+	}
+	private void kerala() {
+		System.out.println("8 User");
+	}
+	private void andra() {
+		System.out.println("11 User");
+	}
+
 }
